@@ -1,0 +1,21 @@
+header, section, footer{
+    background-color:antiquewhite;
+    border: saddlebrown 3px solid;
+    text-align: center;
+}
+footer{
+    text-align:left;
+}
+nav {
+    border:antiquewhite 3px solid;
+    background-color: black;
+    text-align:center;
+}
+nav li {
+    display: inline;
+    color: antiquewhite;
+    padding:10px;
+}
+header h1 {
+    color:saddlebrown;
+}
