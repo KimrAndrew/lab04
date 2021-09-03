@@ -5,7 +5,7 @@ function getName() {
 function wantsCoffee() {
     let coffee = prompt("Would you like a cup?");
     if (coffee.toLowerCase() == "yes"){
-        document.write('<img src="/Users/zeroaku/projects/courses/102/lab04/lab04/fahmi-fakhrudin-nzyzAUsbV0M-unsplash.jpg"/>');
+        document.write('<img src="fahmi-fakhrudin-nzyzAUsbV0M-unsplash.jpg"/>');
     }
     else {
         document.write('<img src="https://via.placeholder.com/1400x300"/>')
