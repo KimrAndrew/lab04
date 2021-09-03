@@ -19,3 +19,6 @@ nav li {
 header h1 {
     color:saddlebrown;
 }
+img {
+    max-width: 1400px;
+}
